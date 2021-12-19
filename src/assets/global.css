@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+.el-breadcrumb {
+  font-size: 15px;
+}
+
+.el-card{
+  margin-top: 20px;
+}
